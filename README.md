@@ -1,6 +1,6 @@
 <h1 align="center">🧌The Horror Game</h1>
 
-<p align="center">Landing page baseada em jogos de terror</p>
+<p align="center">Esta landing page é baseada em jogos de terror</p>
 
 <p align="center">
     <img src="assets/background.png" alt="Três meninos olhando para um buraco negro">
